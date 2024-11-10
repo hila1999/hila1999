@@ -24,6 +24,6 @@
 ---
 
 ### GitHub Stats:
-![Hila's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hila1999&show_icons=true&hide_border=true)
+![Hila's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hila1999&show_icons=true&hide_border=true&title_color=white&icon_color=white&text_color=white&bg_color=000000)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hila1999&layout=compact&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hila1999&layout=compact&hide_border=true&title_color=white&icon_color=white&text_color=white&bg_color=000000)
