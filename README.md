@@ -15,22 +15,28 @@
 ---
 
 ### Languages and Tools:
-<img align="left" alt="Bash" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/bash/bash.png" />
-<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/c/c.png" />
-<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" />
-<img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png" />
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" />
+<p align="left">
+  <img alt="C" width="50px" src="https://raw.githubusercontent.com/github/explore/main/topics/c/c.png" />
+  <img alt="C++" width="50px" src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png" />
+  <img alt="Java" width="50px" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" />
+  <img alt="Linux" width="50px" src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png" />
+  <img alt="Python" width="50px" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" />
+  <img alt="Shell" width="50px" src="https://raw.githubusercontent.com/github/explore/main/topics/shell/shell.png" />
+</p>
 
-<br />
-<br />
+---
+
+### Most Used Languages:
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hila1999&layout=compact&hide_border=true&title_color=black&text_color=black&bg_color=ffffff&card_width=450" alt="Top Languages"/>
+</div>
 
 ---
 
 ### GitHub Stats:
-![Hila's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hila1999&show_icons=true&hide_border=true&title_color=white&icon_color=white&text_color=white&bg_color=000000)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hila1999&layout=compact&hide_border=true&title_color=white&icon_color=white&text_color=white&bg_color=000000)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hila1999&show_icons=true&hide_border=true&title_color=black&icon_color=black&text_color=black&bg_color=ffffff" alt="GitHub Stats" width="450"/>
+</div>
 
 ---
 
