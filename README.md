@@ -34,8 +34,4 @@
 
 ---
 
-### Projects I Contributed To:
-- [Project 1](https://github.com/friendusername/project1) - Brief description of your contribution
-- [Project 2](https://github.com/friendusername/project2) - Brief description of your contribution
-- [Project 3](https://github.com/friendusername/project3) - Brief description of your contribution
 
